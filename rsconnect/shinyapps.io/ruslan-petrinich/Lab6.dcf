@@ -1,0 +1,12 @@
+name: Lab6
+title: Lab6
+username:
+account: ruslan-petrinich
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 236502
+bundleId: 1080027
+url: https://ruslan-petrinich.shinyapps.io/Lab6/
+when: 1510874918.92449
+asMultiple: FALSE
+asStatic: FALSE
